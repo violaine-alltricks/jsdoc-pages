@@ -1,0 +1,14 @@
+{
+  "name": "doc-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "violaine-alltricks <violaine.ballandin@alltricks.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json -r"
+  },
+  "devDependencies": {
+    "better-docs": "^2.3.2",
+    "jsdoc": "^3.6.7"
+  }
+}
